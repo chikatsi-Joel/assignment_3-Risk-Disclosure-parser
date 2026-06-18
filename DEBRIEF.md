@@ -227,4 +227,5 @@ already happened.
 
 ---
 
+The branch of project is main.
 *Prepared for class presentation, 2026-06-18*
